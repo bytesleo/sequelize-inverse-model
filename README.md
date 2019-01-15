@@ -30,7 +30,6 @@ cd sequelize-inverse-model
 npm start
 ```
 
-<br/>
 ![Imgur](https://i.imgur.com/ok28Evy.png)
 
 
