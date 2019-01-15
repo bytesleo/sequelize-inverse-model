@@ -1,6 +1,6 @@
 # sequelize-inverse-model
 
-[![NPM version](https://badge.fury.io/js/redis-jwt.svg)](https://npmjs.org/package/sequelize-inverse-model) 
+[![NPM version](https://badge.fury.io/js/sequelize-inverse-model.svg)](https://npmjs.org/package/sequelize-inverse-model) 
 [![GitHub license](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](https://raw.githubusercontent.com/kevoj/redis-jwt/master/LICENSE)
 
 > Convert model to query
