@@ -1,0 +1,35 @@
+{
+  "name": "sequelize-inverse-model",
+  "version": "1.0.0",
+  "description": "Convert model to query",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevoj/sequelize-inverse-model"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "sequelize",
+    "sequelize-inverse",
+    "sequelize-model",
+    "sequelize-transform",
+    "ssequelize-query",
+    "sequelize-to-query",
+    "sequelize-mysql"
+  ],
+  "author": "Leonardo Rico Guevara - https://github.com/kevoj",
+  "license": "MIT",
+  "engines": {
+    "node": "^6.2.2",
+    "npm": "^3.9.5"
+  },
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "figlet": "^1.2.1",
+    "fs": "0.0.1-security",
+    "inquirer": "^6.2.1",
+    "shelljs": "^0.8.3"
+  }
+}

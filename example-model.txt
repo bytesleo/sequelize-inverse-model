@@ -1,0 +1,29 @@
+{
+    id: {
+        type: Sequelize.UUID,
+        allowNull: false,
+        primaryKey: true
+    },
+    name: {
+        type: Sequelize.STRING,
+        allowNull: false
+    },
+    age: {
+        type: Sequelize.INTEGER,
+        defaultValue: 18,
+        allowNull: false
+    },
+    gender: {
+        type: Sequelize.ENUM,
+        values: ['male', 'female']
+    },
+    isActive: {
+        type: Sequelize.BOOLEAN,
+        defaultValue: true,
+        allowNull: false
+    },
+    createdAt: {
+        type: Sequelize.DATE,
+        allowNull: false
+    }
+}
